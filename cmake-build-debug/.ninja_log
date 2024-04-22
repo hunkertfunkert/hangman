@@ -1,0 +1,4 @@
+# ninja log v5
+1	1243	7354627201176398	CMakeFiles/hangman.dir/main.cpp.obj	a05e954e4d1db944
+26	2139	7354627210111233	CMakeFiles/hangman.dir/hangman.cpp.obj	97749a1c645ef6ba
+2140	2375	7354627212456148	hangman.exe	6cbe016f1c322fd3
